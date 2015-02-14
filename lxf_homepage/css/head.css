@@ -1,0 +1,95 @@
+
+body {
+	background: url("../front/image/bg_index_top.png") repeat-x top
+		rgb(255, 255, 255);
+	color: rgb(102, 102, 102);
+	font-family: "SimSun", "Arial Narrow";
+	font-size: 12px;
+
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+li {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+
+
+form {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+div {
+	margin: 0px;
+	padding: 0px;
+	border: 0px currentColor;
+}
+
+table {
+	margin: 0px;
+	padding: 0px;
+}
+
+td {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.clearit {
+	clear: both;
+}
+
+
+a {
+	color: rgb(102, 102, 102);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.font03 {
+	line-height: 24px;
+}
+
+
+a.linkBlack {
+	color: rgb(45, 45, 45);
+	text-decoration: none;
+}
+
+a.linkBlack:hover {
+	color: rgb(1, 119, 201);
+	text-decoration: none;
+}

@@ -1,0 +1,92 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>diller scofidio + renfro</title>
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript">
+  function fetchArg( name )
+  {
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( window.location.href );
+    if( results == null )
+      return "";
+    else
+      return results[1];
+  }
+</script>
+<style type="text/css" media="screen">
+  body{
+    padding:0; 
+    margin:0;
+  	text-align: center;
+  }
+
+  #flashcontent{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width:100%;
+    height:100%;
+  	background-image: url(img/gradient.gif);
+  	background-repeat: repeat-x;
+  	background-position: bottom;
+  	background-attachment: fixed;
+  }
+
+  #text {
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 120px;
+  }
+
+  #playerLink a {
+  	display: block;
+  	background-position: 0 0;
+  	width: 437px;
+  	height: 21px;
+  	margin: 22px auto auto auto;
+  	background: url(img/link.gif);
+  }
+
+  #playerLink a:hover {
+  	background-position: 0 -21px;
+  }
+</style>
+</head>
+<body>
+<center>
+
+<div id="flashcontent">
+  <div id="text"><img src="img/text.gif" width="437" height="182" /></div>
+  <div id="playerLink"><a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></div>
+</div>
+
+<script type="text/javascript">
+  // var so = new SWFObject("dsr.swf", "dsr", "100%", "100%", "8", "#FFFFFF");
+  // so.addParam("allowScriptAccess", "always");
+  // if (fetchArg('project')){
+  //   so.addVariable("directTo", fetchArg('project'));
+  // }
+  // if(fetchArg('client')){
+  //   so.addVariable("clientTour", fetchArg('client'));
+  // }
+  // so.write("flashcontent");
+  
+  var params = {allowScriptAccess: "always"}
+  var vars = {}
+  if (fetchArg('project')){
+    vars.directTo=fetchArg('project')
+  }
+  if(fetchArg('client')){
+    vars.clientTour = fetchArg('client')
+  }
+  swfobject.embedSWF("dsr.swf", "flashcontent", "100%", "100%", "8.0.0", false, vars, params)
+  
+</script>
+
+
+</center>
+</body>
+</html>

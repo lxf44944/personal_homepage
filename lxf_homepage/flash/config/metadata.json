@@ -1,0 +1,3266 @@
+[
+  {
+    "status": "", 
+    "slideshow": [
+      "nameplate-big.png", 
+      "who-centered.png", 
+      "Abelardo-Morrell-1A.jpg", 
+      "photo-office_2.jpg", 
+      "highline_all.jpg", 
+      "news.json", 
+      "Biography.json", 
+      "staff.json", 
+      "staff1.json", 
+      "staff2.json", 
+      "contact.json"
+    ], 
+    "video": "", 
+    "year": "Founded 1979", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [], 
+    "scale": "", 
+    "title": "The Studio", 
+    "markers": {
+      "1": "DS+R: The Studio", 
+      "11": "Contact", 
+      "7": "Bio\/Staff", 
+      "6": "News"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "DS+R Awards.pdf", 
+    "type": "", 
+    "thumbnail": "96.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "002.jpg", 
+      "003.jpg", 
+      "004.jpg", 
+      "005.jpg", 
+      "006.jpg", 
+      "007.jpg", 
+      "008.jpg", 
+      "009.jpg", 
+      "About.json"
+    ], 
+    "video": "", 
+    "year": "2011", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "48,500 Sq. Ft.", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Museum of Image & Sound", 
+    "markers": {
+      "1": "Museum of Image & Sound", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Rio de Janeiro, Brazil", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "2.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "split-section_with-stairs.jpg", 
+      "churchill_01-copy.jpg", 
+      "split-section_03.jpg", 
+      "F_cac_entrance_night-wide1.jpg", 
+      "BAR-VIEW_final.jpg", 
+      "BROWN-CRISS_CROSS.jpg", 
+      "living-room---mag-room.jpg", 
+      "LVG-RM_dancers.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2010", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "35,000 Sq. Ft. ", 
+    "category": [
+      "buildings", 
+      "educational", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Creative Arts Center", 
+    "markers": {
+      "1": "Creative Arts Center", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "Brown University, Providence, RI", 
+    "pdf": "", 
+    "type": "Interdisciplinary Arts Educational Facility ", 
+    "thumbnail": "3.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "VIEW-FROM-MANHATTAN-rs.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2010", 
+    "captions": {
+      "1": "View from Manhattan"
+    }, 
+    "id": "lxf", 
+    "size": "35,000 Sq. Ft. ", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Hudson Riverfront Performing Arts Center", 
+    "markers": {
+      "1": "Hudson Riverfront Performing Arts Center", 
+      "2": "About"
+    }, 
+    "public": true, 
+    "location": "Weehawken, NJ", 
+    "pdf": "", 
+    "type": "500 Seat Multi-Use Performing Arts Center ", 
+    "thumbnail": "4.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001_Construction.jpg", 
+      "Paper.jpg", 
+      "Lincoln-Center---North-Plaza-+-Restaurant-+-Campus-Green.jpg", 
+      "LAWN_IN.jpg", 
+      "REST_INT_WEST.jpg", 
+      "RESTAURANT_INT_EAST.jpg", 
+      "document.json"
+    ], 
+    "video": "restaurant.mov", 
+    "year": "2010", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "landscape"
+    ], 
+    "scale": "L", 
+    "title": "Lincoln Center Hypar Restaurant", 
+    "markers": {
+      "1": "Lincoln Center Hypar Restaurant", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Lincoln Center for the Performing Arts, New York, NY", 
+    "pdf": "", 
+    "type": "Lawn\/Restaurant", 
+    "thumbnail": "5.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "007.jpg", 
+      "006.jpg", 
+      "005.jpg", 
+      "002.jpg", 
+      "003.jpg", 
+      "004.jpg", 
+      "Concept_all.jpg", 
+      "MODEL_elevation1A_cropped.jpg", 
+      "MODEL_entire-model-copy.jpg", 
+      "Raytracing-composite.jpg", 
+      "008.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Alice Tully Hall", 
+    "markers": {
+      "1": "Lincoln Center Alice Tully Hall", 
+      "13": "About"
+    }, 
+    "public": true, 
+    "location": "Lincoln Center for the Performing Arts, New York, NY", 
+    "pdf": "", 
+    "type": "Performance Hall", 
+    "thumbnail": "6.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "002.jpg", 
+      "003.jpg", 
+      "004.jpg", 
+      "005.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {
+      "1": "Exits: Part 1", 
+      "2": "Exits: Part 2"
+    }, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "Exits: A Project In 2 Parts", 
+    "markers": {
+      "1": "Exits: A Project In 2 Parts", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Cartier Foundation, Paris, France", 
+    "pdf": "", 
+    "type": "Multi-media Installation", 
+    "thumbnail": "7.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Aerial.jpg", 
+      "bubbles_section_resize.jpg", 
+      "DSR_Inside-view-bubbles_01.jpg", 
+      "Vertical-Landscape-shot_towards_verazano.jpg", 
+      "bike-rack.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "90 Acres ", 
+    "category": [
+      "landscape"
+    ], 
+    "scale": "XL", 
+    "title": "Governors Island Park", 
+    "markers": {
+      "1": "Governors Island Park", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "8.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Construction_001.jpg", 
+      "GANS_END_VIEW_final-copy.jpg", 
+      "aerialtif.jpg", 
+      "sternfeld-composite2.jpg", 
+      "highline-overview-altered.jpg", 
+      "Agri-tecture_cropped3.jpg", 
+      "planking.jpg", 
+      "pd00.jpg", 
+      "080325_SO_Streetcam-SM.jpg", 
+      "composite_renderings.jpg", 
+      "HL_15.jpg", 
+      "HL_2_1.jpg", 
+      "2453488554_d35ef8b52b_o.jpg", 
+      "DSR-Highline-08-09-6801.jpg", 
+      "DSR-Highline-08-09-8094.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "1.5 Miles ", 
+    "category": [
+      "buildings", 
+      "landscape", 
+      "masterplan"
+    ], 
+    "scale": "XL", 
+    "title": "Highline", 
+    "markers": {
+      "1": "Highline", 
+      "16": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Public Park ", 
+    "thumbnail": "9.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "JS_Existing.jpg", 
+      "Lincoln-Center---Julliard-Expansion-&-Renovation.jpg", 
+      "TULLY_CORNER_N.jpg", 
+      "JS_ENTRY-ZOOM-c.jpg", 
+      "JS_UPPER_LOBBY-W.jpg", 
+      "JS_UPPER-LOBBY-SW.jpg", 
+      "JS_BBOX_INT.jpg", 
+      "JS_ORR_ROOM_1.jpg", 
+      "JS_DANCE_INT.jpg", 
+      "JS_SRR-CORR.jpg", 
+      "DSR_title.jpg", 
+      "DSR-Juilliard-08-09-8358.jpg", 
+      "Picture1.jpg", 
+      "Picture2.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {
+      "2": "Existing"
+    }, 
+    "id": "lxf", 
+    "size": "45,000 Sq. Ft. Expansion, 50,000 Sq. Ft. Renovation", 
+    "category": [
+      "buildings", 
+      "cultural", 
+      "educational"
+    ], 
+    "scale": "XL", 
+    "title": "Juilliard School", 
+    "markers": {
+      "1": "The Juilliard School", 
+      "16": "About"
+    }, 
+    "public": true, 
+    "location": "Lincoln Center for the Performing Arts, New York, NY", 
+    "pdf": "", 
+    "type": "Renovation and Expansion", 
+    "thumbnail": "10.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Lightsock_black.jpg", 
+      "DSR-D01b-copy.jpg", 
+      "filling_sequence_resized.jpg", 
+      "Pages-from-LightSock-Milan-Set.jpg", 
+      "DSR-composite2_cropped.jpg", 
+      "0713-A06a_cropped.jpg", 
+      "two_black.jpg", 
+      "DSR-C05a.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "commercial", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Light Sock", 
+    "markers": {
+      "1": "Light Sock", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "Chandelier for Swarovski", 
+    "thumbnail": "11.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "aerial-key0.jpg", 
+      "65_PANORAMA_BWAY_EL_1.jpg", 
+      "GRANDSTAIR.jpg", 
+      "GRANDSTAIR_W_DET.jpg", 
+      "N-Plaza_LCT.jpg", 
+      "BOSQUE_1.jpg", 
+      "LAWN_PLAZA_1.jpg", 
+      "LAWN_IN.jpg", 
+      "TULLY_GRANDSTAND_1.jpg", 
+      "INFOPEEL_1.jpg", 
+      "PANORAMA_triptych1.jpg", 
+      "BRIDGE_REAR.jpg", 
+      "BRIDGE_ENTRY.jpg", 
+      "3-grandstair-flagpole-lighting-NEW-2_1.jpg", 
+      "VIEW_COLUMBUS_South1.jpg", 
+      "DROPOFF_Section1.jpg", 
+      "JRP_CANOPY_2007_0219-LED.jpg", 
+      "CANOPY_glass-LED.jpg", 
+      "canopy-fountain_GLASS-LED.jpg", 
+      "JRP_Fountain_Closeup1.jpg", 
+      "JRP_Fountain-AFH1.jpg", 
+      "BLADES-PERSP.jpg", 
+      "BLADES-BENCH2.jpg", 
+      "BLADES-EXPLODE.jpg", 
+      "campus_wide.jpg", 
+      "document.json"
+    ], 
+    "video": "public spaces.mov", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "masterplan", 
+      "cultural", 
+      "landscape", 
+      "buildings"
+    ], 
+    "scale": "XL", 
+    "title": "Lincoln Center Public Spaces and Infoscape", 
+    "markers": {
+      "26": "About"
+    }, 
+    "public": true, 
+    "location": "Lincoln Center for the Performing Arts, New York, NY", 
+    "pdf": "", 
+    "type": "Redesign of Public Spaces ", 
+    "thumbnail": "12.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "002.jpg", 
+      "003.jpg", 
+      "004.jpg", 
+      "005.jpg", 
+      "006.jpg", 
+      "007.jpg", 
+      "008.jpg", 
+      "009.jpg", 
+      "010.jpg", 
+      ".json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Munch + Stenersen Museum", 
+    "markers": {
+      "1": "Munch + Stenersen Museum", 
+      "11": "About"
+    }, 
+    "public": true, 
+    "location": "Oslo, Norway", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "13.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "001.jpg", 
+      "002.jpg", 
+      "003.jpg", 
+      "004.jpg", 
+      "005.jpg", 
+      "006.jpg", 
+      "007.jpg", 
+      "008.jpg", 
+      "009.jpg", 
+      "010.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "National Museum of African American History & Culture", 
+    "markers": {
+      "1": "NMAAHC", 
+      "11": "About"
+    }, 
+    "public": true, 
+    "location": "Washington DC", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "14.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "elevation-open_cropped.jpg", 
+      "Mottstreet_composite.jpg", 
+      "composite.jpg", 
+      "townhouse_section_border.jpg", 
+      "23_duplex-open.jpg", 
+      "Townhouse---Section-Facade-.jpg", 
+      "facade_RGB.jpg", 
+      "DSCN2249.jpg", 
+      "redDSCN0617.jpg", 
+      "IMG_0008-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2009", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "7,000 Sq. Ft. ", 
+    "category": [
+      "buildings", 
+      "residential", 
+      "commercial"
+    ], 
+    "scale": "M", 
+    "title": "Nolita Townhouse", 
+    "markers": {
+      "1": "Nolita Townhouse", 
+      "11": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Private Residence ", 
+    "thumbnail": "15.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "BW_1.jpg", 
+      "Arboreas-Laetae-moving.jpg", 
+      "tilt.jpg", 
+      "girl.jpg", 
+      "IMG_2730_adjusted.jpg", 
+      "PLAN.jpg", 
+      "Section.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "landscape", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "Abores Laetae", 
+    "markers": {
+      "1": "Abores Laetae", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Liverpool Biennial, U.K", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "16.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Beyeler-DSR-3890.jpg", 
+      "Beyeler-DSR-3908.jpg", 
+      "Beyeler-DSR-3761.jpg", 
+      "Beyeler-DSR-3851.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "art"
+    ], 
+    "scale": "", 
+    "title": "Action Painting", 
+    "markers": {
+      "1": "Action Painting", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Basel, Switzerland", 
+    "pdf": "", 
+    "type": "Multi-Media Installation", 
+    "thumbnail": "17.jpg"
+  }, 
+  {
+    "status": "On Hold", 
+    "slideshow": [
+      "FROM_POOL.jpg", 
+      "FROM_BEDa.jpg", 
+      "suite-plan.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "masterplan", 
+      "residential", 
+      "landscape"
+    ], 
+    "scale": "XL", 
+    "title": "Boulders Resort", 
+    "markers": {
+      "1": "Boulders Resort", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "Scottsdale, AZ", 
+    "pdf": "", 
+    "type": "Renovation and Expansion of Spa Resort ", 
+    "thumbnail": "18.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "ChainCity_1_cropped.jpg", 
+      "venice_resized.jpg", 
+      "border.jpg", 
+      "vegas_resized.jpg", 
+      "border1.jpg", 
+      "macau_resized.jpg", 
+      "ChainCity_DSR_text.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "Chain City", 
+    "markers": {
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Venice Biennale, Italy", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "19.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "title.jpg", 
+      "perspective.jpg", 
+      "screens_text_altered.jpg", 
+      "B.jpg", 
+      "C.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "art"
+    ], 
+    "scale": "", 
+    "title": "Does the Punishment Fit the Crime?", 
+    "markers": {
+      "1": "Does the Punishment Fit the Crime?", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Fondazione Sandretto Re Rebaudengo, Turin", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "20.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "1-presentation-boards_A1_cropped.jpg", 
+      "2-urban-play_map.jpg", 
+      "3-diagram1.jpg", 
+      "4-presentation-boards_A1_new.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art"
+    ], 
+    "scale": "", 
+    "title": "No [No Smoking]", 
+    "markers": {
+      "1": "No [No Smoking]", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Amsterdam", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "21.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Venice-Proposal.jpg", 
+      "section_02.jpg", 
+      "plan1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art"
+    ], 
+    "scale": "", 
+    "title": "PH Project", 
+    "markers": {
+      "1": "PH Project", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "Venice Biennale", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "22.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "STREET.jpg", 
+      "NUMBER-2.jpg", 
+      "AERIAL.jpg", 
+      "LOOK-DOWN.jpg", 
+      "CATWALK.jpg", 
+      "HANGING-GARDEN.jpg", 
+      "HANGING-GARDEN-VIDEO.jpg", 
+      "STAIR.jpg", 
+      "BALCONY.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "3,000 Sq. Meters ", 
+    "category": [
+      "buildings", 
+      "landscape", 
+      "cultural"
+    ], 
+    "scale": "M", 
+    "title": "Staedel Museum Expansion", 
+    "markers": {
+      "1": "Staedel Museum Expansion", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Frankfurt, Germany", 
+    "pdf": "", 
+    "type": "Invited Competition Final Entry", 
+    "thumbnail": "23.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "MARSH-01_1.jpg", 
+      "FINAL-IMAGE.jpg", 
+      "ESPLANADE-01.jpg", 
+      "YARD.jpg", 
+      "BARS-INTERIOR.jpg", 
+      "donut_court.jpg", 
+      "donut_apartment_view-01.jpg", 
+      "CHIP_01.jpg", 
+      "HOTEL.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "residential", 
+      "masterplan"
+    ], 
+    "scale": "", 
+    "title": "Stapleton Homeport Masterplan", 
+    "markers": {
+      "1": "Stapleton Homeport Masterplan", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Staten Island, NY", 
+    "pdf": "", 
+    "type": "Waterfront Masterplan", 
+    "thumbnail": "24.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "AERIAL_01.jpg", 
+      "ARENA_entrance.jpg", 
+      "EVENT-PLAZA.jpg", 
+      "Arena_Interior.jpg", 
+      "PROFESSIONAL-TRAINING.jpg", 
+      "EXHIBITION-CENTER.jpg", 
+      "PUBLIC-TRAINING.jpg", 
+      "FUNICULAR-.jpg", 
+      "TREEHOUSE.jpg", 
+      "SECTION-DIAGRAM_final.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2008", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "landscape", 
+      "masterplan", 
+      "educational"
+    ], 
+    "scale": "", 
+    "title": "Taekwando Park", 
+    "markers": {
+      "1": "Taekwando Park", 
+      "11": "About"
+    }, 
+    "public": true, 
+    "location": "Muju Korea", 
+    "pdf": "", 
+    "type": "Invited Competition Final Entry", 
+    "thumbnail": "25.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "section_perspective.jpg", 
+      "ARoS_PLANS_dec-21a.jpg", 
+      "sections-for-ppt1.jpg", 
+      "street_view.jpg", 
+      "4-view-from-sofa.jpg", 
+      "panarama2_resized.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "buildings", 
+      "media\/tech", 
+      "cultural"
+    ], 
+    "scale": "M", 
+    "title": "Aros Sky Space", 
+    "markers": {
+      "1": "Aros Sky Space", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Aarhus, Denmark", 
+    "pdf": "", 
+    "type": "Museum Expansion", 
+    "thumbnail": "26.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "DSR_HRY_podium-view_cropped.jpg", 
+      "DSR_HRY_amenities-loop.jpg", 
+      "DSR_HRY_roof-deck-view.jpg", 
+      "DSR_HRY_towers-view.jpg", 
+      "DSR_HRY_spiral-stair.jpg", 
+      "DSR_HRY_apartment-view.jpg", 
+      "Brookfield-Hudson-Yards-11-01-022442.jpg", 
+      "DSR_HRY_night-view.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "residential"
+    ], 
+    "scale": "L", 
+    "title": "Hudson Railyards", 
+    "markers": {
+      "1": "Hudson Railyards", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Mixed-Use Residential High Rise ", 
+    "thumbnail": "27.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "25_border.jpg", 
+      "36.jpg", 
+      "DS+R_momaW_PORTFOLIO 18.jpg", 
+      "10.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial"
+    ], 
+    "scale": "", 
+    "title": "Midtown Tower", 
+    "markers": {
+      "1": "Midtown Tower", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Residential Tower", 
+    "thumbnail": "28.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "title-image-copy.jpg", 
+      "BREAKFAST-copy.jpg", 
+      "FRIDGE-DEFINITIVE copy.jpg", 
+      "NAP-TIME-copy.jpg", 
+      "DASH-BOARD-03-copy.jpg", 
+      "PARTY-INDOOR-copy.jpg", 
+      "phantom-under-copy.jpg", 
+      "BED_01-xrated-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "residential", 
+      "buildings", 
+      "landscape"
+    ], 
+    "scale": "M", 
+    "title": "Phantom House", 
+    "markers": {
+      "1": "Phantom House", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "New York Times Magazine, May 20", 
+    "pdf": "Eco-House.pdf", 
+    "type": "Green Architecture", 
+    "thumbnail": "29.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "outside_night_border.jpg", 
+      "media-view.jpg", 
+      "blank.json", 
+      "entry-image-8by11print.jpg", 
+      "blank1.json", 
+      "view_escalator.jpg", 
+      "blank2.json", 
+      "escalator-exterior-image-FINAL.jpg", 
+      "blank3.json", 
+      "upper-interior.jpg", 
+      "blank4.json", 
+      "model_composite1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Russian Jewish Museum", 
+    "markers": {
+      "1": "Russian Jewish Museum", 
+      "13": "About"
+    }, 
+    "public": true, 
+    "location": "Moscow, Russia", 
+    "pdf": "", 
+    "type": "Invited Competition Final Entry", 
+    "thumbnail": "30.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "SAB Lincoln DSR 2852 copy.jpg", 
+      "Iwan-Baan---School-of-American-Ballet-View-into-Studios-3.jpg", 
+      "ASC_EW1_COLOR_altered.jpg", 
+      "SAB Lincoln DSR 3074 copy.jpg", 
+      "SAB Lincoln DSR 4063 copy.jpg", 
+      "SAB Lincoln DSR 2442 copy.jpg", 
+      "American-Ballet-Lobby.jpg", 
+      "SAB_window_composite1.jpg", 
+      "Iwan-Baan---School-of-American-Ballet-Ballet-Bar-Detail.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2007", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural", 
+      "educational"
+    ], 
+    "scale": "M", 
+    "title": "School of American Ballet", 
+    "markers": {
+      "1": "School of American Ballet", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Dance Studios", 
+    "thumbnail": "31.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "exterior-front-copy.jpg", 
+      "section.jpg", 
+      "lobby.jpg", 
+      "entrytube.jpg", 
+      "entry-fissure.jpg", 
+      "last-gallery.jpg", 
+      "twin3.jpg", 
+      "fissure.jpg", 
+      "view_storage_02.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2006", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Clyfford Still Museum", 
+    "markers": {
+      "1": "Clyfford Still Museum", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Denver, CO", 
+    "pdf": "", 
+    "type": "Competition for New Museum ", 
+    "thumbnail": "32.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Picture-314-copy.jpg", 
+      "pic2 copy.jpg", 
+      "pic4 copy.jpg", 
+      "Picture 041 copy.jpg", 
+      "Stills-copy.jpg", 
+      "Untitled-2 copy.jpg", 
+      "Untitled-1 copy.jpg", 
+      "Untitled-4 copy.jpg", 
+      "Untitled-3 copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2006", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Have You Ever Been Mistaken For a...?", 
+    "markers": {
+      "1": "Have You Ever Been Mistaken For a...?", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Lille 3000, France", 
+    "pdf": "", 
+    "type": "Installation, Collaboration with Mira Nair ", 
+    "thumbnail": "33.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Iwan-Baan---ICA-Northeast-V.jpg", 
+      "01_ICA_SITE_cropped_1.jpg", 
+      "wrapper4D.jpg", 
+      "DS+R---ICA-Sheltered-Grands.jpg", 
+      "ICA-Boston-DSR-4-8009_2.jpg", 
+      "Nic Lehoux - ICA Boston Southeast view copy.jpg", 
+      "Iwan Baan - ICA Staircase 0950 copy.jpg", 
+      "Nic Lehoux - ICA Boston Staircase copy.jpg", 
+      "theaterview_resized.jpg", 
+      "Iwan-Baan---ICA-Boston-Mediatheque.jpg", 
+      "ICA-Boston-DSR-3-3601.jpg", 
+      "ICA-Boston-DSR-4-8177.jpg", 
+      "ICA-Boston-DSR-4-8382_touched.jpg", 
+      "Nic LeHoux - ICA Boston Founder's Gallery copy.jpg", 
+      "document.json"
+    ], 
+    "video": "ICA.mov", 
+    "year": "2006", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "65,000 Sq. Ft.", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Institute of Contemporary Art", 
+    "markers": {
+      "1": "Institute of Contemporary Art", 
+      "15": "About"
+    }, 
+    "public": true, 
+    "location": "Boston, MA", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "34.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "4.1.jpg", 
+      "2.jpg", 
+      "1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2006", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Meat Dress", 
+    "markers": {
+      "1": "Meat Dress", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Gown for Miss Meatpacking District", 
+    "thumbnail": "35.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "opener.jpg", 
+      "Picture 092 copy.jpg", 
+      "Picture 082 copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2006", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "performance"
+    ], 
+    "scale": "M", 
+    "title": "Who\u2019s Your Dada?", 
+    "markers": {
+      "1": "Who's Your Dada?", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "Museum of Modern Art, New York, NY", 
+    "pdf": "", 
+    "type": "Multi-Media Performance ", 
+    "thumbnail": "36.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "quad-bedroom.jpg", 
+      "quad-on-site_cropped.jpg", 
+      "quad-living-to-BR.jpg", 
+      "quad-interior.jpg", 
+      "quad-spa-night.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2005", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "residential", 
+      "buildings"
+    ], 
+    "scale": "M", 
+    "title": "Quadrant House", 
+    "markers": {
+      "1": "Quadrant House", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Phoenix, AZ", 
+    "pdf": "", 
+    "type": "Private Residence ", 
+    "thumbnail": "37.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "southwest-view_1.jpg", 
+      "Southwest-narrow_1.jpg", 
+      "two constituents_RGB.jpg", 
+      "Eyebeam-overall-section-cop.jpg", 
+      "Untitled-4.jpg", 
+      "mechanical_RGB.jpg", 
+      "construction systems copy.jpg", 
+      "Eyebeam-lobby-view.jpg", 
+      "TheatreSetup copy.jpg", 
+      "better-theater-copy.jpg", 
+      "p140.eyebeam-insidemediathq.jpg", 
+      "exhibition gallery copy.jpg", 
+      "p141.eyebeam-wearable.jpg", 
+      "p140.eyebeam-track-matrix.jpg", 
+      "p143.eyebeam-fiberoptics.jpg", 
+      "p141.eyebeam-spider.jpg", 
+      "Eyebeam-spiderwall-inside-w.jpg", 
+      "restaurant-FINAL-2.jpg", 
+      "document.json"
+    ], 
+    "video": "eyebeam_ticker.mov", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "90,000 Sq. Ft.", 
+    "category": [
+      "buildings", 
+      "cultural", 
+      "educational", 
+      "media\/tech"
+    ], 
+    "scale": "L", 
+    "title": "Eyebeam Museum of Art and Technology", 
+    "markers": {
+      "1": "Eyebeam Museum of Art and Technology", 
+      "19": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "38.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "22-MAID-B2.jpg", 
+      "Intersection.jpg", 
+      "Section.jpg", 
+      "Composite fiction.jpg", 
+      "02-Z-PLAN-copy.jpg", 
+      "Facsimile_MosconeBldg_WCORN.jpg", 
+      "MWCORNERDETAIL_JLOUIE.jpg", 
+      "CONTACT_OFFICE-1B.jpg", 
+      "23-POWERPOINT-A.jpg", 
+      "27-MARRIED-COUPLE-B.jpg", 
+      "28-AFTERPARTY-B.jpg", 
+      "30-PARANOID-A.jpg", 
+      "32-SHRINERS-A.jpg", 
+      "35-CELLO-A.jpg", 
+      "37-DRAWN-CURTAIN-B2.jpg", 
+      "41-DOG-SHOOT-A.jpg", 
+      "42-COLOR-BARS-A.jpg", 
+      "43-SHOW-AND-TELL-A.jpg", 
+      "08-MESS-A.jpg", 
+      "21-LARGE-FAMILY-D.jpg", 
+      "12-MAID-D.jpg", 
+      "77-GOLFER-B.jpg", 
+      "79-FLAKE-LADDER-A.jpg", 
+      "50-FILING-C.jpg", 
+      "54-WAITING-C.jpg", 
+      "56-GOLFER-C.jpg", 
+      "65-PLANTS-C.jpg", 
+      "68-BUREAU-SHRED-A.jpg", 
+      "FACS_INTERIOR_1-s-25.jpg", 
+      "roof.jpg", 
+      "document.json"
+    ], 
+    "video": "FACS_EXTERIOR.mov", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "100 foot tall steel armature holding a 15\u2019 x 25\u2019 LED video monitor ", 
+    "category": [
+      "media\/tech", 
+      "art"
+    ], 
+    "scale": "L", 
+    "title": "Facsimile", 
+    "markers": {
+      "1": "Facsimile", 
+      "31": "About"
+    }, 
+    "public": true, 
+    "location": "Moscone Center West, San Francisco, CA", 
+    "pdf": "", 
+    "type": "Permanent Media Installation", 
+    "thumbnail": "39.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "pool-view.jpg", 
+      "tech-axon.jpg", 
+      "stair view copy.jpg", 
+      "NIGHT-view.jpg", 
+      "escalator-view.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural", 
+      "educational"
+    ], 
+    "scale": "L", 
+    "title": "Learning Center", 
+    "markers": {
+      "1": "Learning Center", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Lausanne, Switzerland", 
+    "pdf": "", 
+    "type": "Invited Competition Final Entry", 
+    "thumbnail": "40.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "corridor-down-copy.jpg", 
+      "Diagonal-cutnorth_RGB.jpg", 
+      "BENCH-VIEW-01 copy.jpg", 
+      "corridor-up-copy.jpg", 
+      "EXTERIOR-AERIAL-01-copy.jpg", 
+      "Detail section copy.jpg", 
+      "AGROLIGHTS-REDO-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "austria.mov", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "landscape", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Liaunig Collection: Museum of Postwar Austrian Art", 
+    "markers": {
+      "1": "Liaunig Collection: Museum of Postwar Austrian Art", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Neuhaus, Austria", 
+    "pdf": "", 
+    "type": "Museum", 
+    "thumbnail": "41.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "View_Cropped.jpg", 
+      "TRAF_FRONT_PERSP_03.jpg", 
+      "AERIAL_TRAFALGAR_01.jpg", 
+      "site_context_mj-3-copy.jpg", 
+      "section-room_cropped.jpg", 
+      "5_altered.jpg", 
+      "6_altered.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "Living Room ", 
+    "markers": {
+      "1": "Living Room ", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "London, England", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "42.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "EH39-copy.jpg", 
+      "PureMix-image.jpg", 
+      "CRW_1408 copy.jpg", 
+      "EH46 copy.jpg", 
+      "EH07-copy.jpg", 
+      "EH20-copy.jpg", 
+      "EH19-copy.jpg", 
+      "CRW_1202 copy.jpg", 
+      "CRW_1199 copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "landscape"
+    ], 
+    "scale": "M", 
+    "title": "Pure Mix", 
+    "markers": {
+      "1": "Pure Mix", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Kemi, Finland", 
+    "pdf": "", 
+    "type": "Installation ", 
+    "thumbnail": "43.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "view_aerial-copy.jpg", 
+      "main-intersection_color.jpg", 
+      "view_int_tower rest_RIC1 copy.jpg", 
+      "view_new-entranceR_wide.jpg", 
+      "view_inside-tivoli-towards-.jpg", 
+      "ViewRearCorner-copy.jpg", 
+      "ViewAquaFerris2-copy.jpg", 
+      "nike_perps_up-copy.jpg", 
+      "nike_persp_above-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2004", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "30,000 Sq. Meters ", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "landscape", 
+      "masterplan"
+    ], 
+    "scale": "XL", 
+    "title": "Tivoli Gardens", 
+    "markers": {
+      "1": "Tivoli Gardens", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Copenhagen, Denmark", 
+    "pdf": "", 
+    "type": "Expansion of Historic Amusement Park", 
+    "thumbnail": "44.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Mexico_Board_3.jpg", 
+      "Mexico_Board_6.jpg", 
+      "Mexico_Board_2.jpg", 
+      "Mexico_Board_4.jpg", 
+      "Mexico_Board_5.jpg", 
+      "Mexico_Board_1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2003", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural", 
+      "educational"
+    ], 
+    "scale": "L", 
+    "title": "Biblioteca de Mexico Jose Vasconcelos", 
+    "markers": {
+      "1": "Biblioteca de Mexico Jose Vasconcelos", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Mexico City, Mexico", 
+    "pdf": "", 
+    "type": "Library", 
+    "thumbnail": "45.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "drill03.jpg", 
+      "mural_2.jpg", 
+      "Mural drill detail copy.jpg", 
+      "DrillHolesRendering copy.jpg", 
+      "Drill Holes Pageant copy.jpg", 
+      "hole tests copy.jpg", 
+      "p004.honeybee-macquette-cnr.jpg", 
+      "p004.honeybee-handdust copy.jpg", 
+      "p004.honeybee-brain-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "MURAL-DRILL.mov", 
+    "year": "2003", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Mural", 
+    "markers": {
+      "1": "Mural", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Whitney Museum of American Art, New York, NY", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "46.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "EASTRIVER-Eye-Level-SM-copy.jpg", 
+      "plan_cropped.jpg", 
+      "EAST-RIVER-AerialSM_wide.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2003", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "landscape", 
+      "masterplan"
+    ], 
+    "scale": "XL", 
+    "title": "Waterfront Park", 
+    "markers": {
+      "1": "Waterfront Park", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "East River, New York, NY", 
+    "pdf": "", 
+    "type": "Mixed-Use Recreational Park ", 
+    "thumbnail": "47.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Blur Aerial view a copy.jpg", 
+      "DS+R-Blur_cropped.jpg", 
+      "Picture3.jpg", 
+      "Water-System.jpg", 
+      "Nozzle.jpg", 
+      "View-on-ramp_cropped.jpg", 
+      "Inside-Blur_original.jpg", 
+      "View_shore_cropped.jpg", 
+      "Blur-Night-View-copy.jpg", 
+      "cloud34.jpg", 
+      "cloud35.jpg", 
+      "cloud36.jpg", 
+      "cloud22.jpg", 
+      "Structure.jpg", 
+      "Structure-3.jpg", 
+      "01--tensegrity-full.jpg", 
+      "Plan.jpg", 
+      "Sections.jpg", 
+      "document.json"
+    ], 
+    "video": "Blur_exterior.mov", 
+    "year": "2002", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "80,000 Sq. Ft. ", 
+    "category": [
+      "art", 
+      "buildings", 
+      "media\/tech", 
+      "landscape", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Blur Building", 
+    "markers": {
+      "1": "Blur Building", 
+      "19": "About"
+    }, 
+    "public": true, 
+    "location": "Exposition Pavilion for Swiss Expo, Yverdon-les-Bains, Switzerland", 
+    "pdf": "", 
+    "type": "Exposition Pavilion ", 
+    "thumbnail": "48.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "openimage.jpg", 
+      "08-visual-communications-co.jpg", 
+      "login_resized.jpg", 
+      "05--Raincoat-station_wide.jpg", 
+      "questionnaire.jpg", 
+      "J 10a - Questionnaire options copy.jpg", 
+      "12-braincoats copy.jpg", 
+      "18--transmission-zones-copy.jpg", 
+      "BLUR-BRAINCOAT-SYSTEM-DIAG.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2002", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech", 
+      "objects"
+    ], 
+    "scale": "M", 
+    "title": "Blur: Braincoat", 
+    "markers": {
+      "1": "Blur: Braincoat", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "Media Component of Blur Building ", 
+    "thumbnail": "49.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "lobby-copy.jpg", 
+      "front copy.jpg", 
+      "Wooster PERSPECTIVE-A copy.jpg", 
+      "WG & S.Annes Performance  copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2002", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "L", 
+    "title": "Wooster Group Theater ", 
+    "markers": {
+      "1": "Wooster Group Theater ", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Brooklyn, NY", 
+    "pdf": "", 
+    "type": "New Permanent Home for the Wooster Group ", 
+    "thumbnail": "50.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "01-Mixing-chamber-copy.jpg", 
+      "BAM-INTERIMproposalWITHskyl.jpg", 
+      "ALLsites2big-copy.jpg", 
+      "02 Mixing chamber copy.jpg", 
+      "trees copy.jpg", 
+      "BAM-installation-copy.jpg", 
+      "BAMurbanbeach2 copy.jpg", 
+      "Drive in copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2001", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "cultural", 
+      "masterplan"
+    ], 
+    "scale": "XL", 
+    "title": "Brooklyn Academy of Music: Master Plan", 
+    "markers": {
+      "1": "Brooklyn Academy of Music: Master Plan", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "Brooklyn, NY", 
+    "pdf": "", 
+    "type": "Masterplan for BAMLDC ", 
+    "thumbnail": "51.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Travelogues installedA copy.jpg", 
+      "blank.json", 
+      "5 terminal plan copy.jpg", 
+      "blank1.json", 
+      "1-Prosthetic-composite.jpg", 
+      "blank2.json", 
+      "1-Prosthetic-composite_wide.jpg", 
+      "blank3.json", 
+      "installedG copy.jpg", 
+      "blank4.json", 
+      "Travelogues installedF copy.jpg", 
+      "blank5.json", 
+      "installedH copy.jpg", 
+      "blank6.json", 
+      "installedI copy.jpg", 
+      "blank7.json", 
+      "jfk x-ray copy.jpg", 
+      "document.json"
+    ], 
+    "video": "Travelogues_full.mov", 
+    "year": "2001", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Travelogues", 
+    "markers": {
+      "1": "Travelogues", 
+      "18": "About"
+    }, 
+    "public": true, 
+    "location": "JFK International Arrivals Building, New York, NY", 
+    "pdf": "", 
+    "type": "Permanent Media Installation", 
+    "thumbnail": "52.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "rearview+section.jpg", 
+      "rearelev---detail.jpg", 
+      "frontelevation.jpg", 
+      "Detail-position-B.jpg", 
+      "Detail-position-C-.jpg", 
+      "icon1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2001", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "residential"
+    ], 
+    "scale": "L", 
+    "title": "Two-Way Hotel", 
+    "markers": {
+      "1": "Two-Way Hotel", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Hong Kong", 
+    "pdf": "", 
+    "type": "220 Room Luxury Hotel ", 
+    "thumbnail": "53.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "WTCnight[1].exit_wide.jpg", 
+      "blank.json", 
+      "WTCnight[1].exit02 copy.jpg", 
+      "blank1.json", 
+      "13P1095062-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2001", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "landscape", 
+      "art"
+    ], 
+    "scale": "M", 
+    "title": "Viewing Platform ", 
+    "markers": {
+      "1": "Viewing Platform ", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "WTC Site, New York, NY", 
+    "pdf": "", 
+    "type": "Temporary Viewing Structure for the WTC Site ", 
+    "thumbnail": "54.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Brasserie-stair-side-image-.jpg", 
+      "Brasserie-Exterior-w--Red-B.jpg", 
+      "Brasserie_Full-Dining_room_wide.jpg", 
+      "Brasserie-Pearwood-shell-co.jpg", 
+      "Brasserie-Booths-copy.jpg", 
+      "Girl at Bar copy.jpg", 
+      "video-beam.jpg", 
+      "Back-Room-Triad-Flat.jpg", 
+      "Bathroom copy.jpg", 
+      "Main-Dining-Room-copy.jpg", 
+      "03.jpg", 
+      "Tilted-Glass.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2000", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "7000 Sq. Ft. ", 
+    "category": [
+      "buildings", 
+      "commercial", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Brasserie", 
+    "markers": {
+      "1": "Brasserie", 
+      "13": "About"
+    }, 
+    "public": true, 
+    "location": "Seagram Building, New York, NY", 
+    "pdf": "", 
+    "type": "Redesign of Classic Restaurant ", 
+    "thumbnail": "55.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "COURTYAR.jpg", 
+      "section copy.jpg", 
+      "PATHDIAG-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2000", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "landscape", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Rapid Growth", 
+    "markers": {
+      "1": "Rapid Growth", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "Philadelphia Museum of Art, Philadelphia, PA", 
+    "pdf": "", 
+    "type": "Commissioned Installation", 
+    "thumbnail": "56.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "elevation_RGB_cropped.jpg", 
+      "gifu-imanishi-photo-copy.jpg", 
+      "facade oblique copy.jpg", 
+      "Snake-model.jpg", 
+      "Night-time-corridor-copy.jpg", 
+      "entry-doors.jpg", 
+      "close up elevation copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "2000", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "residential"
+    ], 
+    "scale": "L", 
+    "title": "Slither Housing", 
+    "markers": {
+      "1": "Slither Housing ", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Gifu, Japan", 
+    "pdf": "", 
+    "type": "Social Housing ", 
+    "thumbnail": "57.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "layered-installation_cropped.jpg", 
+      "Robot Grid 3 copy.jpg", 
+      "in-the-case_clean.jpg", 
+      "masterslave1.jpg", 
+      "masterslave2.jpg", 
+      "XRay copy.jpg", 
+      "Robot-Scan.jpg", 
+      "document.json"
+    ], 
+    "video": "master_slave.mov", 
+    "year": "1999", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "33' x 33'  x 18", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Master\/Slave", 
+    "markers": {
+      "1": "Master\/Slave", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Cartier Foundation, Paris, France", 
+    "pdf": "", 
+    "type": "Installation ", 
+    "thumbnail": "58.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Rm_5_Detail_wide.jpg", 
+      "artificial-turf-front.jpg", 
+      "artificial-turf-back.jpg", 
+      "p127 lawn Room 5 copy.jpg", 
+      "lawn-turf-diseases.jpg", 
+      "p124 lawn Room 4 copy.jpg", 
+      "shoecrosssection.jpg", 
+      "cleats_rgb.jpg", 
+      "stadiumcomposite1.jpg", 
+      "A2_623x480.jpg", 
+      "room_rgb.jpg", 
+      "lawncomposite.jpg", 
+      "2composite_2.jpg", 
+      "p120 lawn Room 2 copy.jpg", 
+      "cityplans003.jpg", 
+      "install001.jpg", 
+      "document.json"
+    ], 
+    "video": "Lawn1.mov", 
+    "year": "1998", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech", 
+      "landscape"
+    ], 
+    "scale": "L", 
+    "title": "American Lawn: Surface of Everyday Life", 
+    "markers": {
+      "1": "American Lawn: Surface of Everyday Life", 
+      "17": "About"
+    }, 
+    "public": true, 
+    "location": "Canadian Centre for Architecture, Montreal, Quebec, Canada", 
+    "pdf": "", 
+    "type": "Exhibition", 
+    "thumbnail": "59.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "crutchlamp2.jpg", 
+      "crutchlamp.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1998", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Crutch Lamp", 
+    "markers": {
+      "1": "Crutch Lamp", 
+      "3": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "60.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "EJMb copy.jpg", 
+      "EJM8 copy.jpg", 
+      "inertia_001 copy.jpg", 
+      "fred_RGB.jpg", 
+      "EJM2_wide.jpg", 
+      "136 copy.jpg", 
+      "video_RGB.jpg", 
+      "EJM1_wide.jpg", 
+      "ejm_RGB.jpg", 
+      "Untitled-137-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "EJM_full_clean.mov", 
+    "year": "1998", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "performance", 
+      "media\/tech"
+    ], 
+    "scale": "L", 
+    "title": "EJM I & II", 
+    "markers": {
+      "1": "EJM I & II", 
+      "11": "About"
+    }, 
+    "public": true, 
+    "location": "Traveled internationally", 
+    "pdf": "", 
+    "type": "Multi-Media Dance Piece ", 
+    "thumbnail": "61.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "jetlag_003 copy.jpg", 
+      "p059.jetlag-peoplemvr-animt.jpg", 
+      "p059.jpg", 
+      "p059.jetlag_RGB.jpg", 
+      "Airplanew-Occupants copy.jpg", 
+      "jetlag_002 copy.jpg", 
+      "Opng-close.jpg", 
+      "Picture-20.jpg", 
+      "c-hand-over-lens.jpg", 
+      "document.json"
+    ], 
+    "video": "Jet Lag.mov", 
+    "year": "1998", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "performance"
+    ], 
+    "scale": "L", 
+    "title": "Jet Lag", 
+    "markers": {
+      "1": "Jet Lag", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Performed internationally", 
+    "pdf": "", 
+    "type": "Multi-Media Theater Collaboration with Builders Association", 
+    "thumbnail": "62.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Refresh2 copy.jpg", 
+      "Refresh-opening-copy.jpg", 
+      "refresh_RGB.jpg", 
+      "Refresh copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1998", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "S", 
+    "title": "Refresh", 
+    "markers": {
+      "1": "Refresh", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "DIA Center for the Arts, New York, NY", 
+    "pdf": "", 
+    "type": "Web Project", 
+    "thumbnail": "63.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "p135-Cold-War-copy.jpg", 
+      "Cold-War-Composite.jpg", 
+      "3.jpg", 
+      "hockey.jpg", 
+      "document.json"
+    ], 
+    "video": "ColdWar.mov", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "85\u2019 W x 200\u2019 L ", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Cold War", 
+    "markers": {
+      "1": "Cold War", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Broward County Civic Arena, Sunrise, FL", 
+    "pdf": "", 
+    "type": "Permanent Media Installation", 
+    "thumbnail": "64.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Interclone-hochiminh-copy.jpg", 
+      "Istanbul Installed copy.jpg", 
+      "Interclone background copy.jpg", 
+      "Interclone-bangelore-copy.jpg", 
+      "Interclone-tijuana-copy.jpg", 
+      "Interclone-ljubjiana-copy.jpg", 
+      "Interclone-kampala-copy.jpg", 
+      "Interclone-baku-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art"
+    ], 
+    "scale": "M", 
+    "title": "Interclone Hotel", 
+    "markers": {
+      "1": "Interclone Hotel", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "Attat\u00fcrk Airport, Istanbul Biennial, Turkey, 1997", 
+    "pdf": "", 
+    "type": "Multi-Media Installation ", 
+    "thumbnail": "65.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Perfume_border.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "No Means Yes", 
+    "markers": {
+      "1": "No Means Yes", 
+      "2": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "Fragrance", 
+    "thumbnail": "66.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Hormone-Fountain_cropped.jpg", 
+      "blank2.json", 
+      "dispensor_RGB.jpg", 
+      "blank3.json", 
+      "exhaust.jpg", 
+      "blank.json", 
+      "pills_RGB.jpg", 
+      "blank1.json", 
+      "resevior_RGB.jpg", 
+      "document.json"
+    ], 
+    "video": "vice.mov", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Vice\/Virtue ", 
+    "markers": {
+      "1": "Vice\/Virtue ", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Glassmanifest, Leerdam, Netherlands", 
+    "pdf": "", 
+    "type": "Installation ", 
+    "thumbnail": "67.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "CNN-Night-Detail.jpg", 
+      "Untitled-1-copy.jpg", 
+      "Untitled-12-copy.jpg", 
+      "cnn_border4.jpg", 
+      "cnn_border3.jpg", 
+      "Untitled-7-copy.jpg", 
+      "blank.json", 
+      "Untitled-8-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "We Interrupt this Program\u2026", 
+    "markers": {
+      "1": "We Interrupt this Program\u2026", 
+      "9": "About"
+    }, 
+    "public": true, 
+    "location": "CNN headquarters, Atlanta, GA, 1997", 
+    "pdf": "", 
+    "type": "Permanent Media Installation", 
+    "thumbnail": "68.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Untitled-22.jpg", 
+      "blank.json", 
+      "Untitled-23.jpg", 
+      "blank1.json", 
+      "AB33_xy_002-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1997", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "X,Y", 
+    "markers": {
+      "1": "X,Y", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Kobe, Japan", 
+    "pdf": "", 
+    "type": "Pachinko Parlor", 
+    "thumbnail": "69.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "perform_border1.jpg", 
+      "watch_border1.jpg", 
+      "Work.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art"
+    ], 
+    "scale": "M", 
+    "title": "Fourth Window", 
+    "markers": {
+      "1": "Fourth Window", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "70.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Table-WineSpill_noborder.jpg", 
+      "table_rgb.jpg", 
+      "icons final layout copy.jpg", 
+      "Untitled-124-copy.jpg", 
+      "Untitled-132 copy.jpg", 
+      "HARDWARE DIAGRAM copy.jpg", 
+      "Untitled-130-copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Indigestion", 
+    "markers": {
+      "1": "Indigestion", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Palais des Beaux-Arts, Brussels", 
+    "pdf": "", 
+    "type": "Interactive Video Installation ", 
+    "thumbnail": "71.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "4-Screens-esc-elev-copy.jpg", 
+      "JumpCutsFacade_wide.jpg", 
+      "Jump Cuts 2 copy.jpg", 
+      "1-Sreeen.jpg", 
+      "Jump Cuts copy.jpg", 
+      "A.jpg", 
+      "document.json"
+    ], 
+    "video": "Jumpcuts.mov", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Jumpcuts", 
+    "markers": {
+      "1": "Jumpcuts", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "UA Cineplex Theater, San Jose, CA", 
+    "pdf": "", 
+    "type": "Permanent Installation ", 
+    "thumbnail": "72.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "lineup-copy.jpg", 
+      "Theater-Section-copy.jpg", 
+      "business_0001 copy.jpg", 
+      "theater.jpg", 
+      "business_0004_cropped.jpg", 
+      "SCAN_1_4 copy.jpg", 
+      "theaterscan_touch1.jpg", 
+      "document.json"
+    ], 
+    "video": "Monkey Businees.mov", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "performance", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Monkey Business Class", 
+    "markers": {
+      "1": "Monkey Business Class", 
+      "8": "About"
+    }, 
+    "public": true, 
+    "location": "Copenhagen Cultural Capital, Denmark", 
+    "pdf": "", 
+    "type": "Multi-Media Theater Work", 
+    "thumbnail": "73.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "largeskirt_border.jpg", 
+      "Moving Target sect copy.jpg", 
+      "moving,target-2_wide.jpg", 
+      "moving target overhead copy.jpg", 
+      "virtual-black_combined.jpg", 
+      "moving-target-2_wide.jpg", 
+      "moving_0005-copy.jpg", 
+      "p057.MT.normallogo-copy.jpg", 
+      "p057.MT.Genderallpilltake copy.jpg", 
+      "document.json"
+    ], 
+    "video": "Moving Target.mov", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "performance"
+    ], 
+    "scale": "L", 
+    "title": "Moving Target", 
+    "markers": {
+      "1": "Moving Target", 
+      "10": "About"
+    }, 
+    "public": true, 
+    "location": "Belgium", 
+    "pdf": "", 
+    "type": "Multi-Media Theater Work", 
+    "thumbnail": "74.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "pageant-stills-copy.jpg", 
+      "installation-perspective-co.jpg", 
+      "Mickey-Morphing.jpg", 
+      "Close-Up-Hand.jpg", 
+      "document.json"
+    ], 
+    "video": "pageant.mov", 
+    "year": "1996", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Pageant", 
+    "markers": {
+      "1": "Pageant", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Johannesburg Biennial, South Africa", 
+    "pdf": "", 
+    "type": "Multi-Media Installation", 
+    "thumbnail": "75.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "FEED-perspective-FINAL.jpg", 
+      "feed-spread-platform-W--LETTER.jpg", 
+      "feed007.jpg", 
+      "feed002.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1995", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Feed", 
+    "markers": {
+      "1": "Feed", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "33rd St. & Lexington Ave. Subway Station, New York, NY", 
+    "pdf": "", 
+    "type": "Permanent Installation", 
+    "thumbnail": "76.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "COMPOSITE.jpg", 
+      "document.json"
+    ], 
+    "video": "Overexposed.mov", 
+    "year": "1995", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "", 
+    "title": "Overexposed", 
+    "markers": {
+      "1": "Overexposed", 
+      "2": "About"
+    }, 
+    "public": true, 
+    "location": "Getty Center for History and the Humanities, Los Angeles, CA    ", 
+    "pdf": "", 
+    "type": "Video Performance", 
+    "thumbnail": "77.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "ricimage.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1994", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "objects", 
+      "art"
+    ], 
+    "scale": "", 
+    "title": "Clean Body\/Dirty Mind", 
+    "markers": {
+      "1": "Clean Body\/Dirty Mind", 
+      "2": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "78.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Shirts.jpg", 
+      "STANDARD.jpg", 
+      "Shirt-7.jpg", 
+      "Shirt-1.jpg", 
+      "Shirt 6 copy.jpg", 
+      "Shirt 8 copy.jpg", 
+      "Shirt 3 copy.jpg", 
+      "Shirt 4 copy.jpg", 
+      "Shirt 5 copy.jpg", 
+      "011.jpg", 
+      "016.jpg", 
+      "document.json"
+    ], 
+    "video": "bad_press.mov", 
+    "year": "1993", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "M", 
+    "title": "Bad Press: Dissident Ironing", 
+    "markers": {
+      "1": "Bad Press: Dissident Ironing", 
+      "12": "About"
+    }, 
+    "public": true, 
+    "location": "In the collection of SF MoMA, San Francisco, CA", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "79.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "case002.jpg", 
+      "case013.jpg", 
+      "case011.jpg", 
+      "case001.jpg", 
+      "case003.jpg", 
+      "case004.jpg", 
+      "case005.jpg", 
+      "case006_blk_1.jpg", 
+      "case007_blk_2.jpg", 
+      "case008_blk_3.jpg", 
+      "case009_black_4.jpg", 
+      "case010_blk_5.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1993", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "S", 
+    "title": "CASE # 00-17164\/003841983", 
+    "markers": {
+      "1": "CASE # 00-17164\/003841983", 
+      "13": "About"
+    }, 
+    "public": true, 
+    "location": "The New Museum, New York, NY", 
+    "pdf": "", 
+    "type": "Commissioned Installation", 
+    "thumbnail": "80.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "his_hers_BW.jpg", 
+      "Document.json"
+    ], 
+    "video": "", 
+    "year": "1993", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "His\/Hers ", 
+    "markers": {
+      "1": "His\/Hers ", 
+      "2": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "81.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "42ND-STREET-copy.jpg", 
+      "Soft Sell marquee copy.jpg", 
+      "SHAMLESS-DISCREET.jpg", 
+      "document.json"
+    ], 
+    "video": "soft_sell.mov", 
+    "year": "1993", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Soft Sell", 
+    "markers": {
+      "1": "Soft Sell", 
+      "4": "About"
+    }, 
+    "public": true, 
+    "location": "Rialto Theater, New York, NY", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "82.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Maritime-MODEL.jpg", 
+      "maritime.jpg", 
+      "Maritime23_1.jpg", 
+      "CT-SEAT-FOLDED_1.jpg", 
+      "CT-SCREEN-FOLDED1.jpg", 
+      "CT-PROJECTOR-FOLDED.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1992", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "cultural"
+    ], 
+    "scale": "M", 
+    "title": "Battery Maritime Building", 
+    "markers": {
+      "1": "Battery Maritime Building", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "New York, NY", 
+    "pdf": "", 
+    "type": "Offices and Performance Facilities ", 
+    "thumbnail": "83.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Loophole-fig-for-TV.jpg", 
+      "Loophole-figure.jpg", 
+      "loophole5-copy.jpg", 
+      "blank.json", 
+      "loophole4-copy.jpg", 
+      "blank1.json", 
+      "loophole1 copy.jpg", 
+      "blank2.json", 
+      "1.jpg", 
+      "blank3.json", 
+      "2.jpg", 
+      "blank4.json", 
+      "3.jpg", 
+      "blank5.json", 
+      "4.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1992", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Loophole", 
+    "markers": {
+      "1": "Loophole", 
+      "16": "About"
+    }, 
+    "public": true, 
+    "location": "Installation, Second Artillery Armory, Museum of Contemporary Art, Chicago , IL", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "84.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "pleasure.jpg", 
+      "pain1.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1991", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Pleasure\/Pain Medicine Cabinet ", 
+    "markers": {
+      "1": "Pleasure\/Pain Medicine Cabinet ", 
+      "3": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "85.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "slow-house-car-copy.jpg", 
+      "Wood-Model--copy.jpg", 
+      "construction.jpg", 
+      "Slow-House-View-copy.jpg", 
+      "render.jpg", 
+      "TV-drawing.jpg", 
+      "Upper-Level-Plan.jpg", 
+      "lower-level-plan.jpg", 
+      "02_copy_RGB.jpg", 
+      "Gallery-Ma-copy.jpg", 
+      "Gallery-Ma-Last-Rows-copy.jpg", 
+      "Gallery-Ma-Slowhouse-copy.jpg", 
+      "03-copy_RGB.jpg", 
+      "desiring-eye-detail_RGB.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1991", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "residential"
+    ], 
+    "scale": "M", 
+    "title": "Slow House", 
+    "markers": {
+      "1": "The Slow House", 
+      "15": "About"
+    }, 
+    "public": true, 
+    "location": "Long Island, NY", 
+    "pdf": "", 
+    "type": "Private Residence ", 
+    "thumbnail": "86.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Tourisms-Installation-300dp.jpg", 
+      "SUITCASES--copy.jpg", 
+      "Tourisms--blue-Xray-copy.jpg", 
+      "Untitled-79.jpg", 
+      "touched63.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1991", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art"
+    ], 
+    "scale": "L", 
+    "title": "Tourisms: Suitcase Studies", 
+    "markers": {
+      "1": "Tourisms: Suitcase Studies", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Walker Art Center, Minneapolis, MN", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "87.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Monitor-revolving-door_1.jpg", 
+      "doorway.jpg", 
+      "4 TV color copy.jpg", 
+      "MoMA-installation_wide.jpg", 
+      "MOMA-ESC.TORSO.jpg", 
+      "ED11_ParaSite copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1989", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "media\/tech"
+    ], 
+    "scale": "M", 
+    "title": "Para-Site", 
+    "markers": {
+      "1": "Para-Site", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Museum of Modern Art, New Yok, NY", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "88.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "vanity1.jpg", 
+      "vanity2.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1988", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "objects"
+    ], 
+    "scale": "S", 
+    "title": "Vanity Chair", 
+    "markers": {
+      "1": "Vanity Chair", 
+      "3": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "89.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "SCAN_1_3 copy.jpg", 
+      "blank.json", 
+      "rotary_0007 copy.jpg", 
+      "blank1.json", 
+      "SCAN_1_7 copy.jpg", 
+      "blank2.json", 
+      "Untitled-21-copy.jpg", 
+      "blank3.json", 
+      "SCAN_1_2 copy.jpg", 
+      "Automariontte copy.jpg", 
+      "Automarionette2-retouched.jpg", 
+      "rotary_0005 copy.jpg", 
+      "Untitled-165_cropped.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1987", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "media\/tech", 
+      "performance"
+    ], 
+    "scale": "M", 
+    "title": "Rotary Notary and His Hot Plate", 
+    "markers": {
+      "1": "Rotary Notary and His Hot Plate", 
+      "14": "About"
+    }, 
+    "public": true, 
+    "location": "Philadelphia Museum of Art, PA", 
+    "pdf": "", 
+    "type": "Multi-Media Theater Work", 
+    "thumbnail": "90.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "memorytheater_00003.jpg", 
+      "memorytheater_0004 copy.jpg", 
+      "memorytheater_0001 copy.jpg", 
+      "memorytheater_0002 copy.jpg", 
+      "RG05_MemoryTheater copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1986", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "performance"
+    ], 
+    "scale": "M", 
+    "title": "The Memory Theatre of Giulio Camillo", 
+    "markers": {
+      "1": "The Memory Theater of Giulio Camillo", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Brooklyn Bridge Anchorage, New York, NY", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "91.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Stretched-Interior.jpg", 
+      "Sofa_wide.jpg", 
+      "Corner_Beds_closed copy.jpg", 
+      "Corner_Beds_open copy.jpg", 
+      "CRUCIFORM PLAN copy.jpg", 
+      "CAPP Floor Slice copy.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1986", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "residential"
+    ], 
+    "scale": "M", 
+    "title": "The Withdrawing Room", 
+    "markers": {
+      "1": "The Withdrawing Room", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Capp Street Project, San Francisco, CA", 
+    "pdf": "", 
+    "type": "Installation", 
+    "thumbnail": "92.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "p047-amer-myst-theatr.table copy.jpg", 
+      "Composite_revised1.jpg", 
+      "RG02_AllAmericanMysteries-c.jpg", 
+      "amcmyst_0009.jpg", 
+      "amcmyst_0003.jpg", 
+      "amcmyst_0010.jpg", 
+      "document.json"
+    ], 
+    "video": "American Mysteries.mov", 
+    "year": "1984", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "performance"
+    ], 
+    "scale": "M", 
+    "title": "American Mysteries", 
+    "markers": {
+      "1": "American Mysteries", 
+      "7": "About"
+    }, 
+    "public": true, 
+    "location": "Theater work, Premiered La Mama ETC, New York, NY ", 
+    "pdf": "", 
+    "type": "Theater Work", 
+    "thumbnail": "93.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "facade_border.jpg", 
+      "Dwg-Unfolded-House.jpg", 
+      "interior1.jpg", 
+      "interior2.jpg", 
+      "Dwg-Plan-&-Section.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1981", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "buildings", 
+      "residential"
+    ], 
+    "scale": "M", 
+    "title": "Plywood House", 
+    "markers": {
+      "1": "Plywood House", 
+      "6": "About"
+    }, 
+    "public": true, 
+    "location": "Briar Cliff Manor, New York", 
+    "pdf": "", 
+    "type": "Residence ", 
+    "thumbnail": "94.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "people-cones_ric.jpg", 
+      "drawing_resized2.jpg", 
+      "03-distant-traffic-cones-co.jpg", 
+      "01-CCircle-Traffic-Cones-co.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "1981", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "art", 
+      "landscape"
+    ], 
+    "scale": "L", 
+    "title": "Traffic ", 
+    "markers": {
+      "1": "Traffic", 
+      "5": "About"
+    }, 
+    "public": true, 
+    "location": "Columbus Circle, New York, NY", 
+    "pdf": "", 
+    "type": "Installation ", 
+    "thumbnail": "95.jpg"
+  }, 
+  {
+    "status": "", 
+    "slideshow": [
+      "Nicotine-Table.jpg", 
+      "Nicotine-Table-top.jpg", 
+      "document.json"
+    ], 
+    "video": "", 
+    "year": "", 
+    "captions": {}, 
+    "id": "lxf", 
+    "size": "", 
+    "category": [
+      "objects", 
+      "art"
+    ], 
+    "scale": "S", 
+    "title": "Nicotine\/Caffeine Table with Orbiting Ashtray ", 
+    "markers": {
+      "1": "Nicotine\/Caffeine Table with Orbiting Ashtray", 
+      "3": "About"
+    }, 
+    "public": true, 
+    "location": "", 
+    "pdf": "", 
+    "type": "", 
+    "thumbnail": "1.jpg"
+  }
+]

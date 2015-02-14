@@ -1,0 +1,387 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN" xml:lang="zh-CN" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>刘向峰的个人主页</title>
+<script src='kf/jqqonline.js' language='JavaScript' charset='gb2312'></script>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript" charset="GBK" src="ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="GBK" src="ueditor/ueditor.all.js"></script>
+<link rel="stylesheet" type="text/css" href="ueditor/themes/default/css/ueditor.css"/>
+<link href="css/container.css" rel="stylesheet" type="text/css">
+<link href="css/index_new.css" rel="stylesheet" type="text/css">
+<link href="css/head.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/footer.css">
+</head>
+<body>
+<div class="container">
+  <div class="head">
+    <DIV class="index_top">
+      <DIV class="index_top_logo"> <A href="#"><IMG src="front/image/icon_index_logo.png"> </A> </DIV>
+      <DIV class="index_top_search">
+        <UL>
+          <form action="#">
+            <LI>
+              <DIV class="index_top_search_icon"> <IMG src="front/image/icon_index_search01.png"> </DIV>
+              <DIV class="index_top_search_text">
+                <INPUT onBlur="if(!value){value='请输入关键字';}" id="keyword" class="index_top_input" onFocus="if(value == '请输入关键字'){this.value=''}" onKeyPress="return testEnter()" name="keyword" value="请输入关键字" type="text">
+              </DIV>
+            </LI>
+            <LI style="padding: 4px 0px 0px;">
+              <INPUT src="front/image/icon_index_search04.png" type="image" alter="提交检索">
+              <DIV style="height: 20px; display: block;" id="showError"><SPAN style="background: orange;"></SPAN></DIV>
+            </LI>
+          </form>
+          <LI>
+            <DIV class="index_top_search_icon"> <IMG src="front/image/icon_index_search03.png"> </DIV>
+            <script language="javascript" type="text/javascript"> 
+				function AddFavorite(sURL, sTitle) 
+				{ 
+					try 
+					{ 
+						window.external.addFavorite(sURL, sTitle); 
+					} 
+					catch (e) 
+					{ 
+						try 
+						{ 
+							window.sidebar.addPanel(sTitle, sURL, ""); 
+						} 
+						catch (e) 
+						{ 
+							alert("加入收藏失败，请使用Ctrl+D进行添加"); 
+						} 
+					} 
+				}
+			</script>
+            <DIV class="index_top_search_text"> <A class="linkBlack"
+							onClick="AddFavorite(document.location.href,'刘向峰个人主页')"
+							href="javascript:void(0);">收藏网站</A> </DIV>
+          </LI>
+        </UL>
+      </DIV>
+    </DIV>
+    <!--  -->
+    <DIV class="index_content"> 
+      <!--  -->
+      <DIV class="index_content_left"> 
+        <!-- 主导航菜单开始     --> 
+        <script type="text/javascript" src="js/jquery.js"></script> 
+        <script type="text/javascript">
+		
+		$(document).ready( function(){});
+			function hiden(){
+				$("#menu").hide(1500);//hide()函数,实现隐藏,括号里还可以带一个时间参数(毫秒)例如hide(2000)以2000毫秒的速度隐藏,还可以带slow,fast
+			}
+			function slideToggle(){
+				$("#menu").slideToggle(2000);//窗帘效果的切换,点一下收,点一下开,参数可以无,参数说明同上
+			}
+			function show(){
+				$("#menu").show('fast');//显示,参数说明同上
+			}
+			function toggle(){
+				$("#menu").toggle(2000);//显示隐藏切换,参数可以无,参数说明同上
+			
+			}
+			function slide(){
+				$("#menu").slideDown();//窗帘效果展开
+			}
+		
+		document.onmousemove=function(e){
+			var scrollTop=Math.max(document.documentElement.scrollTop,document.body.scrollTop);
+			var menu_first = document.getElementById("menu_first");
+			if(scrollTop>95){
+				menu_first.style.display = 'none';
+				if(e.clientY <= 35){
+					//show();	
+					slide();
+					//slideToggle();
+				}else{
+					hiden();
+					//toggle();	
+				}
+			}else{
+				//show();	
+				menu_first.style.display = 'block';
+				slide();
+				//slideToggle();
+			}
+		}
+	    window.onscroll=function(){ 
+			var scrollTop=Math.max(document.documentElement.scrollTop,document.body.scrollTop);
+			 // alert(scrollTop);
+			if(scrollTop>=90){
+				var div = document.getElementById('flowmenu');
+				if(scrollTop==90){
+					div.style.top = '5px';
+				}
+				else {
+					div.style.top = '0px';
+				}
+				
+			}else {
+				var div = document.getElementById('flowmenu');
+				div.style.top = '95px';
+			}
+	 	}
+  </script>
+      
+        <div  id="flowmenu" style="position:fixed !important;position:absolute; top:95px; top:expression(offsetParent.scrollTop);width:980px;">
+          <DIV id="menu" class="menu">
+            <UL  id="menu_items">
+              <LI style="height: 38px; overflow: hidden; float: left;"><A href="#"> <IMG src="front/image/icon_index_column01.png"></A></LI>
+              <LI class="menu_item"><A class="linkYahei" href="#"><font color="white"> 首页展示 </font> </A>
+                <UL id="menu_first" class="menu_item" >
+                  <LI class="white02" ><A href="#introduce" style="margin-top:10px">个人简介</A>
+                    </DD>
+                  <LI class="white02"><A href="#more">详细资料</A>
+                    </DD>
+                  <LI class="white02"><A href="#photo">个人风采</A>
+                    </DD>
+                  <LI class="white02"><A href="#ueditor">给我留言</A>
+                    </DD>
+                </UL>
+              </LI>
+              <LI class="menu_item"><A class="linkYahei" href="#introduce"><font
+							color="white">个人简介</font> </A> </LI>
+              <LI class="menu_item"><A class="linkYahei" href="#more"><font
+							color="white">详细资料</font> </A> </LI>
+              <LI class="menu_item"><A class="linkYahei" href="#photo"><font
+							color="white">个人风采</font> </A> </LI>
+              <LI class="menu_item"><A class="linkYahei" href="#ueditor"><font
+							color="white">给我留言</font> </A> </LI>
+              <LI style="height: 38px; overflow: hidden; float: right;"><IMG
+						src="front/image/icon_index_column03.png"> </LI>
+            </UL>
+          </DIV>
+        </div>
+      </DIV>
+    </DIV>
+  </div>
+  <div class="main">
+    <div class="left">
+      <DIV class="homebanner" >
+        <DIV id="YSlide" >
+          <P style="display: block;" class="YSample"> <A href="#photo"><IMG style="opacity: 1;"
+                        src="front/image/bigphoto1.jpg"> </A> </P>
+          <P style="display: none;" class="YSample"> <A href="#photo"><IMG style="opacity: 1;"
+                        src="front/image/bigphoto2.jpg"> </A> </P>
+          <P style="display: none;" class="YSample"> <A href="#photo"><IMG style="opacity: 1;"
+                        src="front/image/bigphoto3.jpg"> </A> </P>
+          <P style="display: none;" class="YSample"> <A href="#photo"><IMG
+                        src="front/image/bigphoto4.jpg"> </A> </P>
+          <P id="YSIndex"> <A class="  current" href="javascript:;">1</A><A class="  current"
+                        href="javascript:;">2</A><A class="  current" href="javascript:;">3</A><A
+                        class="current" href="javascript:;">4</A> </P>
+        </DIV>
+        <SCRIPT language="javascript" type="text/javascript"
+                src="js/yao.js"></SCRIPT> 
+        <SCRIPT language="javascript" type="text/javascript">
+                YAO.YTabs({
+                    tabs : YAO.getEl('YSIndex').getElementsByTagName('a'),
+                    contents : YAO.getElByClassName('YSample', 'p', 'YSlide'),
+                    defaultIndex : 0,
+                    auto : true,
+                    fadeUp : true
+                });
+        </SCRIPT> 
+      </DIV>
+      <!-- Banner广告位滚动图片 End -->
+      
+      <DIV class="clearit"></DIV>
+      <DIV class="index_new_gg">
+        <DIV class="index_new_gg_left">我的座右铭</DIV>
+        <DIV class="index_new_gg_rihgt">
+          <MARQUEE onMouseOver="this.stop()" onMouseOut="this.start()"
+                    direction="left" height="32" behavior="type" loop="-1"
+                    scrollAmount="3" aligh="left">
+          <SPAN style="color: rgb(255, 0, 0); font-weight:750;">同是天涯沦落人，向峰何必曾相识。金风玉露一向峰，便胜却人间无数。</SPAN>
+          </MARQUEE>
+        </DIV>
+      </DIV>
+      <DIV class="clearit"></DIV>
+      <DIV class="clearit"></DIV>
+      <DIV class="tab_div">
+        <DIV id="introduce" class="tab_right_content_top" style="height: 38px; width:772px">
+          <P style="margin-top:5px"> <STRONG ><font size="+1" >个人简介</font></STRONG></P>
+          <SPAN><A class="linkWhite12" href="#more">更多&gt;&gt;</A> </SPAN> </DIV>
+        <DIV  class="tab_right_content">
+          <DIV style=' padding:0px'; class="tab_right_content_bg">
+            <P ><a href="#more"><IMG src="front/image/bg_index_tab01.jpg" align="left" hspace="10" vspace="10" width="200" height="150" > </a> 
+            <font face="Georgia, Times New Roman, Times, serif" size="2" style="line-height:25px">
+            <p style="text-indent: 2em"><FONT size="+2" face="华文彩云"><strong>刘向峰</strong></FONT>曾任职业规划部部长、班长、年级学生会主席、辅导员助理，作为党员，他做到思想上进、勤奋好学、努力工作、认真履职，以一名优秀学生的标准严格要求自己。</p>
+            <p style="text-indent: 2em">学习方面，他通过不断努力学习，取得优异学习成绩。专业综合排名第1名，连续多次获"校级一二等奖学金"。</p>
+            <p style="text-indent: 2em">任职学生干部期间，他经常开展活动，关心每位同学学习与生活情况。他还带领班级申请到校级"示范团支部"创建资格，同时取得了"优秀团支部"的光荣称号，还荣获"校社会工作奖学金"及"暑期社会实践先进个人"。</p>
+            </font> </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="more" class="tab_right_content_top" style="height: 38px;text-align: left;  width:980px">
+        <P style="margin-top:5px"> <STRONG ><font size="+1" >详细资料</font></STRONG> </P>
+      </DIV>
+      <DIV class="scroll-area">
+        <iframe style="margin-top:0px" height="190px" width="979px" id="list" name="list" frameborder="0" src="html/my_home.html"></iframe>
+      </DIV>
+      
+      <!--照片墙--> 
+      <a name="photo" id="photo"></a>
+      <DIV class="tab_right_content_top" style="height: 38px;text-align: left;  width:980px">
+        <P style="margin-top:5px"> <STRONG ><font size="+1" >个人风采</font></STRONG> </P>
+      </DIV>
+      <iframe src="flash/index.html"  frameborder="0" width="980px" height="500px"></iframe>
+      <!--留言板-->
+      
+      <DIV  id="ueditor" class="tab_right_content_top" style="height: 38px;text-align: left; width:980px;margin-top:15px;">
+        <P style="margin-top:5px"> <STRONG ><font size="+1" >留言板</font></STRONG> </P>
+      </DIV>
+      <form action="#" id="sform" name="sform" onSubmit="return formcheck()">
+        <div id="newscontent" style="width:978px; height:400px; "></div>
+        <script type="text/javascript">
+                var editor = new baidu.editor.ui.Editor();
+                editor.render('newscontent');
+				
+				function selectnew(){
+					var myselectvalue = document.getElementById('myselect').value;
+					if(myselectvalue == 1){
+						document.getElementById('nametext').innerHTML = "<input type='text' name='receiver' id='receiver' onChange=\"check()\"/><span id=\"snameSp\"></span>";
+					}else{
+						document.getElementById('nametext').innerHTML = "";
+					}
+					
+				}
+				
+				
+				function check(){
+					var name = sform.receiver.value.trim();
+					var nameSp = document.getElementById("snameSp");
+					//regex = /^a{0,15}$/;
+					if (name != null && name != "") {
+						if (name.length >= 2&& name.length <= 10 ) {
+							nameSp.innerHTML = "<img src=\"front/image/agree_ok.gif\"/><font color=\"green\">真实姓名合法</font>";
+							return true;
+						} else {
+							nameSp.innerHTML = "<img src=\"front/image/agree_no.gif\"/><font color=\"red\">长度在2到10之间</font>";
+						}
+					} else {
+						nameSp.innerHTML = "<img src=\"front/image/agree_no.gif\"/><font color=\"red\">真实姓名不能为空</font>";
+					}
+					return false;	
+				}
+				
+				function formcheck(){
+					try{
+						var ischeck = check();
+					}catch(e){
+						ischeck = true;
+					}
+					
+				
+					if(!ischeck){
+						alert('留言失败，请查看校验信息！');	
+					}else{
+						alert('留言成功，请静候佳音！');	
+					}
+					return ischeck;
+				}
+				
+         </script>
+        <table style="text-align:center; margin-top:10px" border="0" align="left">
+          <tr>
+            <td><img src="front/image/icon_index_search02.png">
+              <select id="myselect" onChange="selectnew()">
+                <option value="0">匿名留言</option>
+                <option value="1">实名留言</option>
+              </select>
+              <span id="nametext"></span></td>
+            <td><INPUT style=" margin-top:0px; margin-left:10px;"  src="front/image/bg_index_tab010.png" width="40" height="40" type="image" alter="提交留言"></td>
+          </tr>
+        </table>
+      </form>
+    </div>
+    <div class="right"> 
+      <script language="javascript">
+	$(document).ready( function(){});
+	function slideToggleul1(){
+		$("#ul1").slideToggle(250);//窗帘效果的切换,点一下收,点一下开,参数可以无,参数说明同上
+	}
+	function toggleul1(){
+		$("#ul1").toggle(250);//显示隐藏切换,参数可以无,参数说明同上
+			
+	}
+	function slideToggleul2(){
+		$("#ul2").slideToggle(250);//窗帘效果的切换,点一下收,点一下开,参数可以无,参数说明同上
+	}
+	function toggleul2(){
+		$("#ul2").toggle(250);//显示隐藏切换,参数可以无,参数说明同上
+			
+	}
+			
+	function hide1_show2(){
+			toggleul1();
+			toggleul2();
+		//slideToggleul1();
+		//slideToggleul2();
+	}
+	function hide2_show1(){
+				
+		slideToggleul1();
+		slideToggleul2();
+	}
+    </script>
+      <DIV class="index_content_right">
+        <DIV class="cut">
+          <DIV onClick="hide1_show2()" class="cut_top provider opened"></DIV>
+          <UL id="ul1">
+            <LI style="width: 80px; margin-left:20px"><A href="#introduce">个人简介</A></LI>
+            <LI style="width: 80px;"><A href="#more">详细信息</A></LI>
+            <LI style="width: 80px;margin-left:20px"><A href="#photo">个人风采</A></LI>
+            <LI style="width: 80px;"><A href="#ueditor">给我留言</A></LI>
+          </UL>
+        </DIV>
+        <DIV class="cut">
+          <DIV onClick="hide2_show1()" class="cut_top collector"></DIV>
+          <UL id="ul2" style="display: none;">
+            <LI style="width: 80px; margin-left:20px"><A href="#photo">照片墙</A></LI>
+            <LI style="width: 80px;"><A href="#ueditor">留言板</A></LI>
+          </UL>
+        </DIV>
+        <DIV class="clearit"></DIV>
+        <DIV class="right_news">
+          <DIV class="right_news_top"> <IMG src="front/image/icon_index_right01.png"> </DIV>
+          <UL>
+            <!-- 系统公告缓存10分钟begin -->
+            <LI><A title="2013年01月电子商务三创赛" href="#more">2013年01月01日,我们的创业团... </A></LI>
+            <LI><A title="2013年01月IBM国际认证" href="#more">2013年01月01日到2013年11月10... </A></LI>
+            <LI><A title="2013年01月蓝桥杯全国总决赛" href="#more">2013年01月,我和C语言组的同学... </A></LI>
+            <LI><A title="2013年01月SYB认证培训" href="#more">2013年01月01日至2014年01月... </A></LI>
+            <!-- 系统公告缓存10分钟end -->
+            <LI style="text-indent: 120px;"><A href="#more">查看更多</A></LI>
+          </UL>
+        </DIV>
+        <DIV class="clearit"></DIV>
+        <DIV class="right_img"> <IMG src="front/image/icon_index_right03.png"> </DIV>
+        <DIV class="clearit"></DIV>
+        <DIV class="right_img hotlines">
+          <embed src="flash/star.swf" width="200" height="100" wmode=transparent type='application/x-shockwave-flash'></embed>
+        </DIV>
+        <DIV class="clearit"></DIV>
+        <DIV class="right_input">
+          <SELECT id="friendlink" onChange="javascript:window.open(this.options[this.selectedIndex].value)" name="select" value="GO">
+            <OPTION value="#">--------------- 友情链接 ---------------</OPTION>
+            <OPTION value="http://www.taobao.com" >淘宝网</OPTION>
+            <OPTION value="http://www.speedfull.com">捷盈科技</OPTION>
+          </SELECT>
+        </DIV>
+      </DIV>
+    </div>
+  </div>
+  <div class="footer">
+    <DIV class="weifoot" align="center" style="width: 100%">
+      <DIV class="weifoot font03"> <SPAN>向峰个人主页 版权所有 Copyright @ 2013-2023 LuShelphen
+        Corporation of China（LSCC）.All rights reserved</SPAN> </DIV>
+    </DIV>
+  </div>
+</div>
+</body>
+</html>
